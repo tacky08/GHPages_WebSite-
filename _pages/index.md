@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "観光地"
 author: default
 permalink: /
 ---
